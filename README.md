@@ -1,12 +1,12 @@
 # py4ultimate
 Python for Ultimate Players
 
-## Prerequisites
+## Prerequisites (Download These)
 
-[Anaconda](http://continuum.io/downloads)
+[Anaconda](http://continuum.io/downloads)  
 [PyCharm](https://www.jetbrains.com/pycharm/download/)
 
-[Software Carpentry](http://software-carpentry.org/)
+## [Software Carpentry](http://software-carpentry.org/)
 
 ## Introduction 
 
