@@ -3,7 +3,7 @@ Python for Ultimate Players
 
 [Software Carpentry](http://software-carpentry.org/)
 
-Interesting GIS stuff:
+### Interesting GIS stuff
 [basemap](http://matplotlib.org/basemap/)  
 [cartopy](http://scitools.org.uk/cartopy/docs/latest/index.html)  
 [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences)  
