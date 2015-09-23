@@ -3,6 +3,10 @@ Python for Ultimate Players
 
 [Software Carpentry](http://software-carpentry.org/)
 
+## Introduction 
+
+JakeVDP's [State of the Stack](https://speakerdeck.com/jakevdp/the-state-of-the-stack-scipy-2015-keynote)
+
 ### Interesting GIS stuff
 [basemap](http://matplotlib.org/basemap/)  
 [cartopy](http://scitools.org.uk/cartopy/docs/latest/index.html)  
