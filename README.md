@@ -3,7 +3,7 @@ Python for Ultimate Players
 
 ## Prerequisites (Download These)
 
-[Anaconda](http://continuum.io/downloads)  (Click "I WANT PYTHON 3.4" then the graphical installer for your OS)
+[Anaconda](http://continuum.io/downloads)  (Click "I WANT PYTHON 3.4" then the graphical installer for your OS)  
 [PyCharm](https://www.jetbrains.com/pycharm/download/)
 
 ## [Software Carpentry](http://software-carpentry.org/)
