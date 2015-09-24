@@ -1,0 +1,186 @@
+15 + 3
+3*4
+4 *  2+1
+4 *             (2+1)
+clear
+5**6
+2**2
+5**0.5
+import math
+math.sqrt(9)
+clear
+int(int(3)/int(2))
+3/2
+from __future__ import division
+x=2
+y=5
+x+y
+x=x+2
+x
+x = 3.5
+x = 3/5
+x
+clear
+whos
+z = -5
+whos
+del z
+whos
+z = float(y)
+whos
+z = float(5)
+whos
+type(x)
+type(type(x))
+type(type(type(x)))
+clear
+5 + 2
+_ +1
+_i36
+_i37
+_o37
+_37
+clear
+name=""
+type(name)
+print(str)
+print(name)
+len(name)
+name="Aron Ahmadia"
+len(name)
+name="Mr. Aron Ahmadia"
+name
+name.upper
+name.upper()
+clear
+'Na'*8 + "batman"
+'Na'*8 + " " + "batman"
+astring = "A string that doesn't contain a double quote"
+needboth = "a string that contains a ' and a \"'
+needboth = "a string that contains a ' and a \""
+needboth = """and then you can use ' and " and
+
+
+
+you can even have blank lines
+
+that's cool too
+
+"""
+print(needboth)
+repr(needboth)
+s = """
+
+
+
+
+
+
+"""
+s = "\n\n\nthree lines"
+s
+print(s)
+s
+repr(s)
+repr(3)
+clear
+f = "3"
+type(f)
+f + 4
+f * 2
+int(f)
+f = "3.3"
+int(f)
+int(float(f))
+"The number of apples is: {}".format(3)
+"The number of apples is: {} and the number of peaches is {} and my name is {}".format(3, 2, "Aron")
+name = "Aron"
+format_string = "The number of apples is: {} and the number of peaches is {} and my name is {}"
+format_string.format(3, 2, name)
+format_string.format(5, 6, name)
+format_string
+format_string.replace(' ','')
+clear
+ls
+clear
+x = ''
+x = 'A number of words in a sentence.'
+x.split()
+clear
+x
+x.replace('sentence', 'paragraph')
+x
+x[:]
+x[:5]
+x[0]
+x[0] = 'B'
+y = [1, 2, 3]
+y[0] = 4
+y
+x.replace('sentence', 'paragraph')
+z = x.replace('sentence', 'paragraph')
+x
+z
+clear
+x = 'This is a string that can't be changed'
+x = "This is a string that can't be changed"
+x = 3
+a = [1, 2, 3]
+b = a
+a[0] = 5
+a
+b
+clear
+a = [0, 1, 2]
+from copy import copy
+import copy
+from copy import copy
+b = copy(a)
+a
+b
+a[0] = 5
+b
+a
+clear
+a = [0, 2, 4]
+x = " asd
+clear
+a = [0, 2, 4]
+b = a[:]
+clear
+a = 'An ant farm
+a = 'An ant farm'
+y ="0123456789012"
+clear
+a = 'An ant farm
+a = 'An ant farm'
+a.replace('ant', '')
+a.replace('ant ', '')
+clear
+a = 'An ant farm'
+a[0]
+a[1]
+a[2]
+a[3:len(a)]
+a[3:]
+a[:len(a)-5]
+a[:-5]
+clear
+a = 'An ant farm'
+a.replace(' ant','')
+x = a.split()
+x
+del x[1]
+x
+' '.join(x)
+x = [0, 1, 2, 3, 4]
+x[:2][0]
+x[:2][-1]
+clear
+x = "a string"
+y = [0, 1]
+x.split()
+y.split()
+x = "A sentence."
+x.split()
+x.split().split()
