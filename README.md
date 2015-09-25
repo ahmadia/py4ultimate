@@ -17,6 +17,7 @@ Python for Ultimate Players
 [cartopy](http://scitools.org.uk/cartopy/docs/latest/index.html)  
 [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences)  
 [EarthPy](http://earthpy.org/)  
+[Urban Informatics](http://geoffboeing.com/2015/08/urban-informatics-visualization-berkeley/)
 
 ## Facebook
 [Facebook Tokens](http://stackoverflow.com/a/16054555/122022)
