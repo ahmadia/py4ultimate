@@ -1,5 +1,6 @@
 # Nicki's semi-sensitive data
 nicki_data.xlsx
+nd_out.csv
 
 # ipython checkpoints
 .ipynb_checkpoints/*
