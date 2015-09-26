@@ -1,0 +1,12 @@
+name: py4ultimate
+channels:
+dependencies:
+    - jupyter
+    - numpy
+    - pandas
+    - scipy
+    - scikit-learn
+    - requests
+    - bokeh>=0.10.0
+    - pip:
+        - "--editable=git+https://github.com/pythonforfacebook/facebook-sdk.git@8c0d34291aaafec00e02eaa71cc2a242790a0fcc#egg=facebook_sdk-master"
