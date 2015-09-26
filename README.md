@@ -19,5 +19,9 @@ Python for Ultimate Players
 [EarthPy](http://earthpy.org/)  
 [Urban Informatics](http://geoffboeing.com/2015/08/urban-informatics-visualization-berkeley/)
 
+### Installing Cartopy (Downgrade to Python 3.4)
+
+https://data.baltimorecity.gov/browse?tags=shp
+
 ## Facebook
 [Facebook Tokens](http://stackoverflow.com/a/16054555/122022)

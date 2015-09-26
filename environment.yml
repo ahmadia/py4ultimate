@@ -1,9 +1,17 @@
 name: py4ultimate
 channels:
+    - scitools
+    - unidata
 dependencies:
+    - cartopy
+    - python=3.4
+    - geos
+    - shapely
+    - cython
     - jupyter
     - numpy
     - pandas
+    - proj4
     - xlrd
     - xlwt
     - xlsxwriter
