@@ -4,9 +4,14 @@ dependencies:
     - jupyter
     - numpy
     - pandas
+    - xlrd
+    - xlwt
+    - xlsxwriter
+    - openpyxl
     - scipy
     - scikit-learn
     - requests
+    - matplotlib
     - bokeh>=0.10.0
     - pip:
         - "--editable=git+https://github.com/pythonforfacebook/facebook-sdk.git@8c0d34291aaafec00e02eaa71cc2a242790a0fcc#egg=facebook_sdk-master"
